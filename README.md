@@ -6,7 +6,7 @@ This is my secondary account for school purposes. Take look my [main profile](ht
 
 - Contributed to Several Repository Related on Minecraft-Things 🔥
 
-<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xqwtxon&layout=compact&langs_count=20&hide_border=true&hide=css,html">
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xwertxy&layout=compact&langs_count=20&hide_border=true&hide=css,html">
 
 - Reverse-Engineer since 2019, Currently working Go and Rust 🏆
 - Experienced since 2016, Currently my native language is PHP and C#/C++ 🎖
@@ -26,7 +26,7 @@ This is my secondary account for school purposes. Take look my [main profile](ht
 - Specially using Github for Storing Projects and Making Open Source.
 - Prefer's Open Source Projects. 💖
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xqwtxon">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xwertxy">
   
 - Im currently working on ReinfyTeam 💼
 - I am founder of a Minecraft Server called PrideMC 👑
@@ -34,4 +34,4 @@ This is my secondary account for school purposes. Take look my [main profile](ht
 - I am aware developer for pull request, reviewing codes, and issue/bugs. 🎩
 
 <br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=xqwtxon&column=-1" align="right">
+<img src="https://github-profile-trophy.vercel.app/?username=xwertxy&column=-1" align="right">
