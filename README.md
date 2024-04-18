@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/xwertxy/xwertxy/assets/143252455/68a7dde2-2ade-4f1a-8ede-4554d617e099" height="46" width="46" align="left">xwertxy 👨‍💻</h1> 
 
-👋 Hello, I a'm Ace, also known as **code deceiver**. 
+👋 Hello, I am Ace, also known as **code deceiver**. 
 
 - I am also prominent for abusing Minecraft in any way whatsoever possible. 😂
 
