@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/xwertxy/xwertxy/assets/143252455/68a7dde2-2ade-4f1a-8ede-4554d617e099" height="46" width="46" align="left">xwertxy 👨‍💻</h1> 
 
-[![](https://visitcount.itsvg.in/api?id=xqwtxon&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=xwertxy&icon=0&color=6)](https://visitcount.itsvg.in)
 
 👋 Hello, I am Ace, also known as **code deceiver**. 
 
@@ -19,10 +19,10 @@
 <details>
 <summary>📊 Spoiler: GitHub Stats</summary>
   
-![](https://github-readme-stats.vercel.app/api?username=xqwtxon&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xqwtxon&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xqwtxon&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=xqwtxon&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-![](https://github-contributor-stats.vercel.app/api?username=xqwtxon&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=xwertxy&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xwertxy&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xwertxy&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=xwertxy&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-contributor-stats.vercel.app/api?username=xwertxy&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 </details>
