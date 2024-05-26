@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
     siteUrl: `https://xwertxy.kro.kr/`,
-    // Your Name
+    // Your Name 
     name: 'xwertxy',
     // Main Site Title
     title: `xwertxy | ✨ I make project to build something awesome!`,
@@ -69,12 +69,12 @@ module.exports = {
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL, and SQLite',
+        description: 'MongoDB, MySQL, and SQLite',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, Amazon Web Services (AWS), CI / CD, PocketMine-MP Plugin Developer, Backend Developer, Frontend Developer / Pixel Artist',
       },
     ],
   },
@@ -130,8 +130,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `devfolio`,
-        short_name: `devfolio`,
+        name: `xwertxy-personal-page`,
+        short_name: `xwertxy-personal-page`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`, // This color appears on mobile
