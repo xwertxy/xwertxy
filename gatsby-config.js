@@ -58,7 +58,7 @@ module.exports = {
           name: 'LBNHS School Developer'
           description: 'Back-End Developer - January 2023 - Present',
           link: 'https://github.com/lbnhs'
-      }
+      },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
