@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/xwertxy/`,
     // Content of the About Me section
-    about: `I am also prominent for abusing Minecraft in any way whatsoever possible. 😂 I am passionate self-taught frontend and backend developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, stabilization, and code quality of the things I build. Building frameworks, plugins, and virions to create awesome open-source project for pocketmine. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.\n`,
+    about: `I am also prominent for abusing Minecraft in any way whatsoever possible.\n😂 I am passionate self-taught frontend and backend developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, stabilization, and code quality of the things I build. Building frameworks, plugins, and virions to create awesome open-source project for pocketmine. I am also an open-source enthusiast and maintainer.\nI learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.\n`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
