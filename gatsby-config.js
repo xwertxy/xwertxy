@@ -120,6 +120,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-postcss`,
+    `gatsby-plugin-well-known-pages`,
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-google-analytics`,
